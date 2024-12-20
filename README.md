@@ -1,1 +1,1 @@
-# 2C-DevDynamics create by Ibanez and Dioloa
+# 2C-DevDynamics create by Ibanez and Diolola
