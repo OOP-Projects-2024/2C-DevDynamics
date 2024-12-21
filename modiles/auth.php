@@ -41,7 +41,7 @@ class Authentication {
         $header = [
             "typ" => "JWT",
             "alg" => "HS256",
-            "app" => "QUIZ System for Students"
+            "app" => "patient management system"
         ];
         return base64_encode(json_encode($header));
     }
